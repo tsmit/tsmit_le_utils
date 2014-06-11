@@ -11,3 +11,6 @@ To run the script:
 1.  Download the script from github and save it to a local directory.
 2.  From the terminal, execute:
 	./remove_mac.sh
+	
+	
+	
