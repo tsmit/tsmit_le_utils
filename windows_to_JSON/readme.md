@@ -1,4 +1,4 @@
-remove_mac.sh
+nxlog.conf
 ======================
 
 nxlog config file to convert Windows Event Logs and IIS Logs to JSON
